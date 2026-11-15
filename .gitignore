@@ -1,0 +1,13 @@
+.env
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+*.pyc
+*.log
+*.backup*
+app_backup*
+app_before*
+app_gps_backup.py
+/backups/
+/poster.png
